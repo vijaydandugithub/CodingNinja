@@ -9,6 +9,7 @@ public class Class29 {
         arr.add("vijay");
         arr.add("ms donni");
         arr.add("kl rahul");
+        arr.add("vijay");
         System.out.println(arr);
         // delete
         arr.remove(1);
